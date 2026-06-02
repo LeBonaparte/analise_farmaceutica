@@ -1,4 +1,4 @@
-# Receita Desigual
+# Análise Farmacêutica - "Receita Desigual"
 ### Insights sobre o Consumo Farmacêutico no Brasil
 
 Análise exploratória de dados (EDA) com mais de 14,5 milhões de registros de dispensação de medicamentos controlados e antimicrobianos nos meses de janeiro e fevereiro de 2026, com base nos dados abertos do SNGPC/ANVISA.
